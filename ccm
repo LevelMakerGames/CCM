@@ -1,0 +1,8 @@
+[Update]
+version="1"
+[Links]
+urlFreeGames="https://play.google.com/store/apps/developer?id="
+urlAppAndroid="https://play.google.com/store/apps/details?id="
+[Ads]
+adsAdmobInterstitialInitialize=0
+adsUnityInterstitialInitialize=1
